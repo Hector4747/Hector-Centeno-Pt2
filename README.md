@@ -4,7 +4,7 @@
 
 ## Descripción de la practica:
 
-### Descripción
+### Descripción:
 En esta práctica, se lleva a cabo la configuración de una máquina virtual utilizando IsardVDI para alojar ownCloud, una plataforma de almacenamiento en la nube de código abierto. El objetivo principal es instalar, configurar y gestionar ownCloud, permitiendo la creación de usuarios, la asignación de roles y permisos, y la administración de archivos de manera segura y eficiente.
 
 
