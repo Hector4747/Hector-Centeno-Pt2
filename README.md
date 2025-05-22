@@ -22,4 +22,6 @@ La gestión de usuarios y roles puede ser complicada si los permisos no se asign
 
 Configuración: https://github.com/Hector4747/Hector-Centeno-Pt2/blob/main/configuration.md
 
-Instalación: 
+Instalación: https://github.com/Hector4747/Hector-Centeno-Pt2/blob/main/installation.md
+
+En estos dos apartados explica como poder instalar owncloud en tu maquina virtual de isard y como poder configurarlo.
