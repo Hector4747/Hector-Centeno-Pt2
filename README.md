@@ -20,5 +20,6 @@ La gestión de usuarios y roles puede ser complicada si los permisos no se asign
 
 # Por ultimo pondremos los enlaces a los otros archivos:
 
+Configuración: https://github.com/Hector4747/Hector-Centeno-Pt2/blob/main/configuration.md
 
-
+Instalación: 
